@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/category/android/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/android/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/atom/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/atom/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/atom-live-server-and-live-preview/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/flutter/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/flutter/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/flutter-setup-on-android-studio/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/</loc>
+    <lastmod>2019-11-10T21:02:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-01-19T02:42:30+01:00</lastmod>
+  </url>
+  
+</urlset>
